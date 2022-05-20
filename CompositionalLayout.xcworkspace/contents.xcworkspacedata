@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CompositionalLayout-Combine/CompositionalLayout-Combine.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CompositionalLayout-Nested-Groups-Orthogonal-Scrolling/CompositionalLayout-Nested-Groups-Orthogonal-Scrolling.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CompositionalLayoutMultipleSections/CompositionalLayoutMultipleSections.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CompositionalLayout/CompositionalLayout.xcodeproj">
+   </FileRef>
+</Workspace>
